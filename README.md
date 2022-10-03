@@ -8,8 +8,8 @@
 
 ##
 
-## Show Image
+## Comparison Image
 
-![Model Overview]("/dataset/overview.png")
+![Model Overview](/dataset/overview.png)
 
 ##
